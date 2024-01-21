@@ -1,0 +1,21 @@
+# Cucumber Testing Documentation
+
+## Setting Up Cucumber
+
+1. Add Cucumber dependencies to your project.
+2. Create feature files in the `src/test/resources` directory.
+3. Write step definitions in the `src/test/java` directory.
+4. Configure Cucumber options in the `CucumberTestRunner` class.
+
+## Executing Tests and Generating Reports
+
+1. Run the Cucumber tests using the `CucumberTestRunner` class.
+2. View HTML reports in the `target/cucumber-reports` directory.
+
+
+## Reviewing Test Reports
+
+1. Analyze HTML reports to check test outcomes.
+2. Identify any failures and review error messages.
+3. Use the information to improve the application or test scenarios.
+
